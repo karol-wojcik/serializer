@@ -260,7 +260,6 @@ abstract class BaseSerializationTest extends \PHPUnit_Framework_TestCase
         }
     }
 
-
     public function testDateTimeArrays()
     {
         $data = array(
